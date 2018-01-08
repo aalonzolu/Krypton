@@ -1,0 +1,9 @@
+Building Krypton
+
+See doc/readme-qt.rst for instructions on building Krypton-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Krypton.
+
+See doc/build-*.txt for instructions on building kryptond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Krypton.
