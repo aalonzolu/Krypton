@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Krypton</source>
-        <translation>Kryptonist</translation>
+        <source>About kripton</source>
+        <translation>kriptonist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Krypton&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Kryptoni&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;kripton&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;kriptoni&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The Krypton developers</source>
+        <source>The kripton developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Krypton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad Kryptoni aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your kripton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad kriptoni aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Krypton address</source>
+        <source>Sign a message to prove you own a kripton address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Krypton address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Kryptoni aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified kripton address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud kriptoni aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Krypton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Kryptoni aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your kripton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu kriptoni aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>Krypton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kryptons from being stolen by malware infecting your computer.</source>
-        <translation>Krypton sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista kryptonide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>kripton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kriptons from being stolen by malware infecting your computer.</source>
+        <translation>kripton sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista kriptonide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Krypton</source>
-        <translation>Kuva info Kryptoni kohta</translation>
+        <source>Show information about kripton</source>
+        <translation>Kuva info kriptoni kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Krypton address</source>
-        <translation>Saada münte Kryptoni aadressile</translation>
+        <source>Send coins to a kripton address</source>
+        <translation>Saada münte kriptoni aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Krypton</source>
-        <translation>Muuda Kryptoni seadeid</translation>
+        <source>Modify configuration options for kripton</source>
+        <translation>Muuda kriptoni seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Krypton</source>
-        <translation>Krypton</translation>
+        <source>kripton</source>
+        <translation>kripton</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Krypton</source>
-        <translation>%Kryptonist</translation>
+        <source>&amp;About kripton</source>
+        <translation>%kriptonist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Krypton addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Kryptoni aadressiga</translation>
+        <source>Sign messages with your kripton addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma kriptoni aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Krypton addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Kryptoni aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified kripton addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud kriptoni aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>Krypton client</source>
-        <translation>Kryptoni klient</translation>
+        <source>kripton client</source>
+        <translation>kriptoni klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Krypton network</source>
-        <translation><numerusform>%n aktiivne ühendus Kryptoni võrku</numerusform><numerusform>%n aktiivset ühendust Kryptoni võrku</numerusform></translation>
+        <source>%n active connection(s) to kripton network</source>
+        <translation><numerusform>%n aktiivne ühendus kriptoni võrku</numerusform><numerusform>%n aktiivset ühendust kriptoni võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Krypton address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu Kryptoni aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid kripton address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu kriptoni aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Krypton can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Krypton suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. kripton can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. kripton suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Krypton address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole Kryptonis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid kripton address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole kriptonis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Krypton-Qt</source>
-        <translation>Kryptoni-Qt</translation>
+        <source>kripton-Qt</source>
+        <translation>kriptoni-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Krypton after logging in to the system.</source>
-        <translation>Käivita Krypton süsteemi logimisel.</translation>
+        <source>Automatically start kripton after logging in to the system.</source>
+        <translation>Käivita kripton süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Krypton on system login</source>
-        <translation>&amp;Start Krypton sisselogimisel</translation>
+        <source>&amp;Start kripton on system login</source>
+        <translation>&amp;Start kripton sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Krypton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Kryptoni kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the kripton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>kriptoni kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Krypton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta Kryptoni võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the kripton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta kriptoni võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Krypton.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Kryptoni käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting kripton.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub kriptoni käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Krypton addresses in the transaction list or not.</source>
-        <translation>Kuvada Kryptoni aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show kripton addresses in the transaction list or not.</source>
+        <translation>Kuvada kriptoni aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Krypton.</source>
-        <translation>Tehtud valik rakendub Kryptoni käivitamisel.</translation>
+        <source>This setting will take effect after restarting kripton.</source>
+        <translation>Tehtud valik rakendub kriptoni käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Krypton network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the kripton network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1068,8 +1068,8 @@ Aadress: %4⏎</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start krypton: click-to-pay handler</source>
-        <translation>Krypton ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start kripton: click-to-pay handler</source>
+        <translation>kripton ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Krypton-Qt help message to get a list with possible Krypton command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks Kryptoni-Qt abiteksti</translation>
+        <source>Show the kripton-Qt help message to get a list with possible kripton command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks kriptoni-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Krypton - Debug window</source>
-        <translation>Krypton - debugimise aken</translation>
+        <source>kripton - Debug window</source>
+        <translation>kripton - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Krypton Core</source>
-        <translation>Kryptoni tuumik</translation>
+        <source>kripton Core</source>
+        <translation>kriptoni tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Krypton debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Kryptoni logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the kripton debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava kriptoni logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Krypton RPC console.</source>
-        <translation>Teretulemast Kryptoni RPC konsooli.</translation>
+        <source>Welcome to the kripton RPC console.</source>
+        <translation>Teretulemast kriptoni RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta Kryptoni aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Sisesta kriptoni aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Krypton address</source>
-        <translation>Allkirjasta sõnum Kryptoni aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this kripton address</source>
+        <translation>Allkirjasta sõnum kriptoni aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Krypton address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Kryptoni aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified kripton address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud kriptoni aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Sisesta Kryptoni aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Sisesta kriptoni aadress (nt: Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Krypton signature</source>
-        <translation>Sisesta Kryptoni allkiri</translation>
+        <source>Enter kripton signature</source>
+        <translation>Sisesta kriptoni allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Krypton developers</source>
+        <source>The kripton developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2186,8 +2186,8 @@ Aadress: %4⏎</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Krypton version</source>
-        <translation>Kryptoni versioon</translation>
+        <source>kripton version</source>
+        <translation>kriptoni versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or kryptond</source>
-        <translation>Saada käsklus -serverile või kryptondile</translation>
+        <source>Send command to -server or kriptond</source>
+        <translation>Saada käsklus -serverile või kriptondile</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: krypton.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: krypton.conf)</translation>
+        <source>Specify configuration file (default: kripton.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: kripton.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: kryptond.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: krypton.pid)</translation>
+        <source>Specify pid file (default: kriptond.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: kripton.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=kryptonrpc
+rpcuser=kriptonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;kripton Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=kryptonrpc
+rpcuser=kriptonrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;Krypton Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;kripton Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;Krypton Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Krypton is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on Krypton juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. kripton is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on kripton juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;Krypton Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Krypton will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Krypton ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong kripton will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis kripton ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;Krypton Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Krypton Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Kryptoni Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the kripton Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata kriptoni Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;Krypton Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Krypton</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Kryptoni uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of kripton</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab kriptoni uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Krypton to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Krypton</translation>
+        <source>Wallet needed to be rewritten: restart kripton to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita kripton</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;Krypton Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Krypton is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. Krypton juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. kripton is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. kripton juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

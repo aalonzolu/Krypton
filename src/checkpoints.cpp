@@ -59,7 +59,7 @@ namespace Checkpoints
 
     bool CheckBlock(int nHeight, const uint256& hash)
     {
-        // Krypton has no checkpoints yet!
+        // kripton has no checkpoints yet!
         return true;
         if (fTestNet) return true; // Testnet has no checkpoints
         if (!GetBoolArg("-checkpoints", true))
@@ -105,7 +105,7 @@ namespace Checkpoints
 
     int GetTotalBlocksEstimate()
     {
-        // Krypton has no checkpoints yet!
+        // kripton has no checkpoints yet!
         return 0;
         if (fTestNet) return 0; // Testnet has no checkpoints
         if (!GetBoolArg("-checkpoints", true))
@@ -118,7 +118,7 @@ namespace Checkpoints
 
     CBlockIndex* GetLastCheckpoint(const std::map<uint256, CBlockIndex*>& mapBlockIndex)
     {
-        // Krypton has no checkpoints yet!
+        // kripton has no checkpoints yet!
         return NULL;
         if (fTestNet) return NULL; // Testnet has no checkpoints
         if (!GetBoolArg("-checkpoints", true))

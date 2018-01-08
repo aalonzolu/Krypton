@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Krypton</source>
-        <translation>Om Krypton</translation>
+        <source>About kripton</source>
+        <translation>Om kripton</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Krypton&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Krypton&lt;/b&gt;-version</translation>
+        <source>&lt;b&gt;kripton&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;kripton&lt;/b&gt;-version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,8 +35,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+0"/>
-        <source>The Krypton developers</source>
-        <translation>Krypton-utvecklarna</translation>
+        <source>The kripton developers</source>
+        <translation>kripton-utvecklarna</translation>
     </message>
 </context>
 <context>
@@ -68,8 +68,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Krypton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Detta är dina Krypton-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
+        <source>These are your kripton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Detta är dina kripton-adresser för att ta emot betalningar.  Du kan ge varje avsändare en egen adress så att du kan hålla reda på vem som betalar dig.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,7 +83,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Krypton address</source>
+        <source>Sign a message to prove you own a kripton address</source>
         <translation>Signera ett meddelande för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -108,8 +108,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Krypton address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade Krypton-adressen</translation>
+        <source>Verify a message to ensure it was signed with a specified kripton address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den specificerade kripton-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,8 +123,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Krypton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Krypton adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Kryptons.</translation>
+        <source>These are your kripton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina kripton adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar kriptons.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -139,7 +139,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Skicka &amp;Kryptons</translation>
+        <translation>Skicka &amp;kriptons</translation>
     </message>
     <message>
         <location line="+260"/>
@@ -276,7 +276,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-56"/>
-        <source>Krypton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kryptons from being stolen by malware infecting your computer.</source>
+        <source>kripton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kriptons from being stolen by malware infecting your computer.</source>
         <translation>Programmet kommer nu att stänga ner för att färdigställa krypteringen. Tänk på att en krypterad plånbok inte skyddar mot stöld om din dator är infekterad med en keylogger.</translation>
     </message>
     <message>
@@ -375,8 +375,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Krypton</source>
-        <translation>Visa information om Krypton</translation>
+        <source>Show information about kripton</source>
+        <translation>Visa information om kripton</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Krypton address</source>
-        <translation>Skicka mynt till en Krypton-adress</translation>
+        <source>Send coins to a kripton address</source>
+        <translation>Skicka mynt till en kripton-adress</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Krypton</source>
-        <translation>Ändra konfigurationsalternativ för Krypton</translation>
+        <source>Modify configuration options for kripton</source>
+        <translation>Ändra konfigurationsalternativ för kripton</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Krypton</source>
-        <translation>Krypton</translation>
+        <source>kripton</source>
+        <translation>kripton</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Krypton</source>
-        <translation>&amp;Om Krypton</translation>
+        <source>&amp;About kripton</source>
+        <translation>&amp;Om kripton</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,13 +501,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Krypton addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Kryptonadress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your kripton addresses to prove you own them</source>
+        <translation>Signera meddelanden med din kriptonadress för att bevisa att du äger dem</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Krypton addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade Krypton-adressen</translation>
+        <source>Verify messages to ensure they were signed with specified kripton addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med den specificerade kripton-adressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+47"/>
-        <source>Krypton client</source>
-        <translation>Krypton-klient</translation>
+        <source>kripton client</source>
+        <translation>kripton-klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Krypton network</source>
-        <translation><numerusform>%n aktiv anslutning till Krypton-nätverket</numerusform><numerusform>%n aktiva anslutningar till Krypton-nätverket</numerusform></translation>
+        <source>%n active connection(s) to kripton network</source>
+        <translation><numerusform>%n aktiv anslutning till kripton-nätverket</numerusform><numerusform>%n aktiva anslutningar till kripton-nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -657,8 +657,8 @@ Adress: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Krypton address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Krypton-adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid kripton address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig kripton-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,8 +672,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Krypton can no longer continue safely and will quit.</source>
-        <translation>Ett allvarligt fel har uppstått. Krypton kan inte längre köras säkert och kommer att avslutas.</translation>
+        <source>A fatal error occurred. kripton can no longer continue safely and will quit.</source>
+        <translation>Ett allvarligt fel har uppstått. kripton kan inte längre köras säkert och kommer att avslutas.</translation>
     </message>
 </context>
 <context>
@@ -738,8 +738,8 @@ Adress: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Krypton address.</source>
-        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig Krypton-adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid kripton address.</source>
+        <translation>Den angivna adressen &quot;%1&quot; är inte en giltig kripton-adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -757,8 +757,8 @@ Adress: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Krypton-Qt</source>
-        <translation>Krypton-Qt</translation>
+        <source>kripton-Qt</source>
+        <translation>kripton-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,13 +820,13 @@ Adress: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Krypton after logging in to the system.</source>
-        <translation>Starta Krypton automatiskt efter inloggning.</translation>
+        <source>Automatically start kripton after logging in to the system.</source>
+        <translation>Starta kripton automatiskt efter inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Krypton on system login</source>
-        <translation>&amp;Starta Krypton vid systemstart</translation>
+        <source>&amp;Start kripton on system login</source>
+        <translation>&amp;Starta kripton vid systemstart</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,8 +845,8 @@ Adress: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Krypton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Krypton-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the kripton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt kripton-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,8 +855,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Krypton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Krypton-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the kripton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till kripton-nätverket genom en SOCKS-proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,8 +930,8 @@ Adress: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Krypton.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av Krypton.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting kripton.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Denna inställning träder i kraft efter en omstart av kripton.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -945,8 +945,8 @@ Adress: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Krypton addresses in the transaction list or not.</source>
-        <translation>Anger om Krypton-adresser skall visas i transaktionslistan.</translation>
+        <source>Whether to show kripton addresses in the transaction list or not.</source>
+        <translation>Anger om kripton-adresser skall visas i transaktionslistan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,8 +997,8 @@ Adress: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Krypton.</source>
-        <translation>Denna inställning träder i kraft efter en omstart av Krypton.</translation>
+        <source>This setting will take effect after restarting kripton.</source>
+        <translation>Denna inställning träder i kraft efter en omstart av kripton.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,8 +1016,8 @@ Adress: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Krypton network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Krypton-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the kripton network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med kripton-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,8 +1070,8 @@ Adress: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start krypton: click-to-pay handler</source>
-        <translation>Kan inte starta krypton: klicka-och-betala handhavare</translation>
+        <source>Cannot start kripton: click-to-pay handler</source>
+        <translation>Kan inte starta kripton: klicka-och-betala handhavare</translation>
     </message>
 </context>
 <context>
@@ -1220,8 +1220,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Krypton-Qt help message to get a list with possible Krypton command-line options.</source>
-        <translation>Visa Krypton-Qt hjälpmeddelande för att få en lista med möjliga Krypton kommandoradsalternativ.</translation>
+        <source>Show the kripton-Qt help message to get a list with possible kripton command-line options.</source>
+        <translation>Visa kripton-Qt hjälpmeddelande för att få en lista med möjliga kripton kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,13 +1240,13 @@ Adress: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Krypton - Debug window</source>
-        <translation>Krypton - Debug fönster</translation>
+        <source>kripton - Debug window</source>
+        <translation>kripton - Debug fönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Krypton Core</source>
-        <translation>Krypton Kärna</translation>
+        <source>kripton Core</source>
+        <translation>kripton Kärna</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,8 +1255,8 @@ Adress: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Krypton debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Krypton debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
+        <source>Open the kripton debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna kripton debug-loggfilen som finns i datakatalogen. Detta kan ta några sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,8 +1265,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Krypton RPC console.</source>
-        <translation>Välkommen till Krypton RPC-konsollen.</translation>
+        <source>Welcome to the kripton RPC console.</source>
+        <translation>Välkommen till kripton RPC-konsollen.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1449,8 +1449,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Ange en Krypton-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Ange en kripton-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1514,7 +1514,7 @@ Adress: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Krypton address</source>
+        <source>Sign the message to prove you own this kripton address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -1550,8 +1550,8 @@ Adress: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Krypton address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Krypton-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified kripton address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna kripton-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,8 +1566,8 @@ Adress: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Ange en Krypton-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Ange en kripton-adress (t.ex. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Adress: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Krypton signature</source>
-        <translation>Ange Krypton-signatur</translation>
+        <source>Enter kripton signature</source>
+        <translation>Ange kripton-signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,8 +1650,8 @@ Adress: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Krypton developers</source>
-        <translation>Krypton-utvecklarna</translation>
+        <source>The kripton developers</source>
+        <translation>kripton-utvecklarna</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2188,8 +2188,8 @@ Adress: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Krypton version</source>
-        <translation>Krypton version</translation>
+        <source>kripton version</source>
+        <translation>kripton version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,8 +2198,8 @@ Adress: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or kryptond</source>
-        <translation>Skicka kommando till -server eller kryptond</translation>
+        <source>Send command to -server or kriptond</source>
+        <translation>Skicka kommando till -server eller kriptond</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Adress: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: krypton.conf)</source>
-        <translation>Ange konfigurationsfil (förvalt: krypton.conf)</translation>
+        <source>Specify configuration file (default: kripton.conf)</source>
+        <translation>Ange konfigurationsfil (förvalt: kripton.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: kryptond.pid)</source>
-        <translation>Ange pid fil (förvalt: kryptond.pid)</translation>
+        <source>Specify pid file (default: kriptond.pid)</source>
+        <translation>Ange pid fil (förvalt: kriptond.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Adress: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=kryptonrpc
+rpcuser=kriptonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;kripton Alert&quot; admin@foo.com
 </source>
         <translation>%s, du behöver sätta ett rpclösensord i konfigurationsfilen:
 %s
 Det är rekommenderat att använda följande slumpade lösenord:
-rpcuser=kryptonrpc
+rpcuser=kriptonrpc
 rpcpassword=%s
 (du behöver inte komma ihåg lösenordet)
 Användarnamnet och lösenordet FÅR INTE bara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;kripton Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2333,8 +2333,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Krypton is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Krypton körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. kripton is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. kripton körs förmodligen redan.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2344,7 +2344,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna kryptons!</translation>
+        <translation>Fel: Denna transaktion kräver en transaktionsavgift på minst %s på grund av dess storlek, komplexitet, eller användning av senast mottagna kriptons!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2378,8 +2378,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Krypton will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Krypton inte fungera korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong kripton will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer kripton inte fungera korrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2628,8 +2628,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Krypton Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Krypton-wikin för SSL-setup instruktioner)</translation>
+        <source>SSL options: (see the kripton Wiki for SSL setup instructions)</source>
+        <translation>SSL-inställningar: (se kripton-wikin för SSL-setup instruktioner)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2818,13 +2818,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Krypton</source>
-        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av Krypton</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of kripton</source>
+        <translation>Fel vid inläsningen av wallet.dat: Plånboken kräver en senare version av kripton</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Krypton to complete</source>
-        <translation>Plånboken behöver skrivas om: Starta om Krypton för att färdigställa</translation>
+        <source>Wallet needed to be rewritten: restart kripton to complete</source>
+        <translation>Plånboken behöver skrivas om: Starta om kripton för att färdigställa</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2869,7 +2869,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med kryptons</translation>
+        <translation>Otillräckligt med kriptons</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2883,8 +2883,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Krypton is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Krypton är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. kripton is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. kripton är förmodligen redan igång.</translation>
     </message>
     <message>
         <location line="+64"/>

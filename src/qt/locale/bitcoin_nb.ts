@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Krypton</source>
-        <translation>Om Krypton</translation>
+        <source>About kripton</source>
+        <translation>Om kripton</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Krypton&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Krypton&lt;/b&gt; versjon</translation>
+        <source>&lt;b&gt;kripton&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;kripton&lt;/b&gt; versjon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+0"/>
-        <source>The Krypton developers</source>
+        <source>The kripton developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Krypton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Krypton-adresser for mottak av betalinger. Du kan gi forskjellige adresser til alle som skal betale deg for å holde bedre oversikt.</translation>
+        <source>These are your kripton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine kripton-adresser for mottak av betalinger. Du kan gi forskjellige adresser til alle som skal betale deg for å holde bedre oversikt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Krypton address</source>
-        <translation>Signer en melding for å bevise at du eier en Krypton-adresse</translation>
+        <source>Sign a message to prove you own a kripton address</source>
+        <translation>Signer en melding for å bevise at du eier en kripton-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Krypton address</source>
-        <translation>Verifiser en melding for å være sikker på at den ble signert av en angitt Krypton-adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified kripton address</source>
+        <translation>Verifiser en melding for å være sikker på at den ble signert av en angitt kripton-adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,7 +122,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Krypton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your kripton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -275,8 +275,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-56"/>
-        <source>Krypton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kryptons from being stolen by malware infecting your computer.</source>
-        <translation>Krypton vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine kryptons fra å bli stjålet om skadevare infiserer datamaskinen.</translation>
+        <source>kripton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kriptons from being stolen by malware infecting your computer.</source>
+        <translation>kripton vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine kriptons fra å bli stjålet om skadevare infiserer datamaskinen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Krypton</source>
-        <translation>Vis informasjon om Krypton</translation>
+        <source>Show information about kripton</source>
+        <translation>Vis informasjon om kripton</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Krypton address</source>
-        <translation>Send til en Krypton-adresse</translation>
+        <source>Send coins to a kripton address</source>
+        <translation>Send til en kripton-adresse</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Krypton</source>
-        <translation>Endre oppsett for Krypton</translation>
+        <source>Modify configuration options for kripton</source>
+        <translation>Endre oppsett for kripton</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Krypton</source>
-        <translation>Krypton</translation>
+        <source>kripton</source>
+        <translation>kripton</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Krypton</source>
-        <translation>&amp;Om Krypton</translation>
+        <source>&amp;About kripton</source>
+        <translation>&amp;Om kripton</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Krypton addresses to prove you own them</source>
+        <source>Sign messages with your kripton addresses to prove you own them</source>
         <translation>Signér en melding for å bevise at du eier denne adressen</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Krypton addresses</source>
-        <translation>Bekreft meldinger for å være sikker på at de ble signert av en angitt Krypton-adresse</translation>
+        <source>Verify messages to ensure they were signed with specified kripton addresses</source>
+        <translation>Bekreft meldinger for å være sikker på at de ble signert av en angitt kripton-adresse</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+47"/>
-        <source>Krypton client</source>
-        <translation>Kryptonklient</translation>
+        <source>kripton client</source>
+        <translation>kriptonklient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Krypton network</source>
-        <translation><numerusform>%n aktiv forbindelse til Krypton-nettverket</numerusform><numerusform>%n aktive forbindelser til Krypton-nettverket</numerusform></translation>
+        <source>%n active connection(s) to kripton network</source>
+        <translation><numerusform>%n aktiv forbindelse til kripton-nettverket</numerusform><numerusform>%n aktive forbindelser til kripton-nettverket</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Adresse: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Krypton address or malformed URI parameters.</source>
-        <translation>URI kunne ikke tolkes! Dette kan forårsakes av en ugyldig Krypton-adresse eller feil i URI-parametere.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid kripton address or malformed URI parameters.</source>
+        <translation>URI kunne ikke tolkes! Dette kan forårsakes av en ugyldig kripton-adresse eller feil i URI-parametere.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Krypton can no longer continue safely and will quit.</source>
-        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og Krypton må derfor avslutte.</translation>
+        <source>A fatal error occurred. kripton can no longer continue safely and will quit.</source>
+        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og kripton må derfor avslutte.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Krypton address.</source>
-        <translation>Den angitte adressed &quot;%1&quot; er ikke en gyldig Krypton-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid kripton address.</source>
+        <translation>Den angitte adressed &quot;%1&quot; er ikke en gyldig kripton-adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adresse: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Krypton-Qt</source>
-        <translation>Krypton-Qt</translation>
+        <source>kripton-Qt</source>
+        <translation>kripton-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -820,13 +820,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Krypton after logging in to the system.</source>
-        <translation>Start Krypton automatisk etter innlogging.</translation>
+        <source>Automatically start kripton after logging in to the system.</source>
+        <translation>Start kripton automatisk etter innlogging.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Krypton on system login</source>
-        <translation>&amp;Start Krypton ved systeminnlogging</translation>
+        <source>&amp;Start kripton on system login</source>
+        <translation>&amp;Start kripton ved systeminnlogging</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -845,8 +845,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Krypton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åpne automatisk Krypton klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
+        <source>Automatically open the kripton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åpne automatisk kripton klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -855,8 +855,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Krypton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Koble til Krypton-nettverket gjennom en SOCKS proxy (f.eks. ved tilkobling gjennom Tor).</translation>
+        <source>Connect to the kripton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Koble til kripton-nettverket gjennom en SOCKS proxy (f.eks. ved tilkobling gjennom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -930,8 +930,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Krypton.</source>
-        <translation>Språket for brukergrensesnittet kan settes her. Innstillingen trer i kraft ved omstart av Krypton.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting kripton.</source>
+        <translation>Språket for brukergrensesnittet kan settes her. Innstillingen trer i kraft ved omstart av kripton.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -941,12 +941,12 @@ Adresse: %4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av kryptons.</translation>
+        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av kriptons.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Krypton addresses in the transaction list or not.</source>
-        <translation>Om Krypton-adresser skal vises i transaksjonslisten eller ikke.</translation>
+        <source>Whether to show kripton addresses in the transaction list or not.</source>
+        <translation>Om kripton-adresser skal vises i transaksjonslisten eller ikke.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -997,8 +997,8 @@ Adresse: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Krypton.</source>
-        <translation>Denne innstillingen trer i kraft etter omstart av Krypton.</translation>
+        <source>This setting will take effect after restarting kripton.</source>
+        <translation>Denne innstillingen trer i kraft etter omstart av kripton.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1016,8 +1016,8 @@ Adresse: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Krypton network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informasjonen som vises kan være foreldet. Din lommebok synkroniseres automatisk med Krypton-nettverket etter at tilkobling er opprettet, men denne prosessen er ikke ferdig enda.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the kripton network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informasjonen som vises kan være foreldet. Din lommebok synkroniseres automatisk med kripton-nettverket etter at tilkobling er opprettet, men denne prosessen er ikke ferdig enda.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1070,8 +1070,8 @@ Adresse: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start krypton: click-to-pay handler</source>
-        <translation>Kan ikke starte krypton: klikk-og-betal håndterer</translation>
+        <source>Cannot start kripton: click-to-pay handler</source>
+        <translation>Kan ikke starte kripton: klikk-og-betal håndterer</translation>
     </message>
 </context>
 <context>
@@ -1220,8 +1220,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Krypton-Qt help message to get a list with possible Krypton command-line options.</source>
-        <translation>Vis Krypton-Qt hjelpemelding for å få en liste med mulige kommandolinjevalg.</translation>
+        <source>Show the kripton-Qt help message to get a list with possible kripton command-line options.</source>
+        <translation>Vis kripton-Qt hjelpemelding for å få en liste med mulige kommandolinjevalg.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1240,13 +1240,13 @@ Adresse: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Krypton - Debug window</source>
-        <translation>Krypton - vindu for feilsøk</translation>
+        <source>kripton - Debug window</source>
+        <translation>kripton - vindu for feilsøk</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Krypton Core</source>
-        <translation>Krypton Kjerne</translation>
+        <source>kripton Core</source>
+        <translation>kripton Kjerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1255,8 +1255,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Krypton debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åpne Krypton loggfil for feilsøk fra datamappen. Dette kan ta noen sekunder for store loggfiler.</translation>
+        <source>Open the kripton debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åpne kripton loggfil for feilsøk fra datamappen. Dette kan ta noen sekunder for store loggfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1265,8 +1265,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Krypton RPC console.</source>
-        <translation>Velkommen til Krypton RPC konsoll.</translation>
+        <source>Welcome to the kripton RPC console.</source>
+        <translation>Velkommen til kripton RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1291,7 +1291,7 @@ Adresse: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Send Kryptons</translation>
+        <translation>Send kriptons</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1341,7 +1341,7 @@ Adresse: %4
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Bekreft sending av kryptons</translation>
+        <translation>Bekreft sending av kriptons</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1386,7 +1386,7 @@ Adresse: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Feil: Transaksjonen ble avvist. Dette kan skje om noe av beløpet allerede var brukt, f.eks. hvis du kopierte wallet.dat og noen kryptons ble brukt i kopien men ikke ble markert som brukt her.</translation>
+        <translation>Feil: Transaksjonen ble avvist. Dette kan skje om noe av beløpet allerede var brukt, f.eks. hvis du kopierte wallet.dat og noen kriptons ble brukt i kopien men ikke ble markert som brukt her.</translation>
     </message>
 </context>
 <context>
@@ -1449,8 +1449,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Skriv inn en Krypton adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Skriv inn en kripton adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1514,8 +1514,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Krypton address</source>
-        <translation>Signer meldingen for å bevise at du eier denne Krypton-adressen</translation>
+        <source>Sign the message to prove you own this kripton address</source>
+        <translation>Signer meldingen for å bevise at du eier denne kripton-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1550,8 +1550,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Krypton address</source>
-        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte Krypton-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified kripton address</source>
+        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte kripton-adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1566,8 +1566,8 @@ Adresse: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Skriv inn en Krypton adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Skriv inn en kripton adresse (f.eks. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1576,8 +1576,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Krypton signature</source>
-        <translation>Angi Krypton signatur</translation>
+        <source>Enter kripton signature</source>
+        <translation>Angi kripton signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1650,7 +1650,7 @@ Adresse: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Krypton developers</source>
+        <source>The kripton developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1785,7 +1785,7 @@ Adresse: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Genererte kryptons må modnes 120 blokker før de kan brukes. Da du genererte denne blokken ble den kringkastet til nettverket for å legges til i blokkjeden. Hvis den ikke kommer inn i kjeden får den tilstanden &quot;ikke akseptert&quot; og vil ikke kunne brukes. Dette skjer noen ganger hvis en annen node genererer en blokk noen sekunder fra din.</translation>
+        <translation>Genererte kriptons må modnes 120 blokker før de kan brukes. Da du genererte denne blokken ble den kringkastet til nettverket for å legges til i blokkjeden. Hvis den ikke kommer inn i kjeden får den tilstanden &quot;ikke akseptert&quot; og vil ikke kunne brukes. Dette skjer noen ganger hvis en annen node genererer en blokk noen sekunder fra din.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2138,7 +2138,7 @@ Adresse: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Send Kryptons</translation>
+        <translation>Send kriptons</translation>
     </message>
 </context>
 <context>
@@ -2188,8 +2188,8 @@ Adresse: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Krypton version</source>
-        <translation>Krypton versjon</translation>
+        <source>kripton version</source>
+        <translation>kripton versjon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2198,8 +2198,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or kryptond</source>
-        <translation>Send kommando til -server eller kryptond</translation>
+        <source>Send command to -server or kriptond</source>
+        <translation>Send kommando til -server eller kriptond</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2218,13 +2218,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: krypton.conf)</source>
-        <translation>Angi konfigurasjonsfil (standardverdi: krypton.conf)</translation>
+        <source>Specify configuration file (default: kripton.conf)</source>
+        <translation>Angi konfigurasjonsfil (standardverdi: kripton.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: kryptond.pid)</source>
-        <translation>Angi pid-fil (standardverdi: kryptond.pid)</translation>
+        <source>Specify pid file (default: kriptond.pid)</source>
+        <translation>Angi pid-fil (standardverdi: kriptond.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2301,24 +2301,24 @@ Adresse: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=kryptonrpc
+rpcuser=kriptonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;kripton Alert&quot; admin@foo.com
 </source>
         <translation>%s, du må angi rpcpassord i konfigurasjonsfilen.
 %s
 Det anbefales at du bruker det følgende tilfeldige passordet:
-rpcbruker=kryptonrpc
+rpcbruker=kriptonrpc
 rpcpassord=%s
 (du behøver ikke å huske passordet)
 Brukernavnet og passordet MÅ IKKE være like.
 Om filen ikke eksisterer, opprett den nå med eier-kun-les filrettigheter.
 Det er også anbefalt at å sette varselsmelding slik du får melding om problemer.
-For eksempel: varselmelding=echo %%s | mail -s &quot;Krypton varsel&quot; admin@foo.com</translation>
+For eksempel: varselmelding=echo %%s | mail -s &quot;kripton varsel&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,7 +2332,7 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Krypton varsel&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Krypton is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. kripton is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2377,8 +2377,8 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Krypton varsel&quot; admin@
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Krypton will not work properly.</source>
-        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Krypton fungere riktig.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong kripton will not work properly.</source>
+        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke kripton fungere riktig.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Krypton varsel&quot; admin@
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Krypton Wiki for SSL setup instructions)</source>
-        <translation>SSL valg: (se Krypton Wiki for instruksjoner for oppsett av SSL)</translation>
+        <source>SSL options: (see the kripton Wiki for SSL setup instructions)</source>
+        <translation>SSL valg: (se kripton Wiki for instruksjoner for oppsett av SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Krypton varsel&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Krypton</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Krypton</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of kripton</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av kripton</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Krypton to complete</source>
-        <translation>Lommeboken måtte skrives om: start Krypton på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart kripton to complete</source>
+        <translation>Lommeboken måtte skrives om: start kripton på nytt for å fullføre</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Krypton varsel&quot; admin@
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Krypton is probably already running.</source>
-        <translation>Kan ikke binde til %s på denne datamaskinen. Sannsynligvis kjører Krypton allerede.</translation>
+        <source>Unable to bind to %s on this computer. kripton is probably already running.</source>
+        <translation>Kan ikke binde til %s på denne datamaskinen. Sannsynligvis kjører kripton allerede.</translation>
     </message>
     <message>
         <location line="+64"/>

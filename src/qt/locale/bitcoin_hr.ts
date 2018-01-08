@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Krypton</source>
-        <translation>O Krypton-u</translation>
+        <source>About kripton</source>
+        <translation>O kripton-u</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Krypton&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Krypton&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;kripton&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;kripton&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Krypton developers</source>
+        <source>The kripton developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Krypton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ovo su vaše Krypton adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
+        <source>These are your kripton addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ovo su vaše kripton adrese za primanje isplate. Možda želite dati drukčiju adresu svakom primatelju tako da možete pratiti tko je platio.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,7 +77,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Krypton address</source>
+        <source>Sign a message to prove you own a kripton address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -102,7 +102,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Krypton address</source>
+        <source>Verify a message to ensure it was signed with a specified kripton address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Krypton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your kripton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Krypton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kryptons from being stolen by malware infecting your computer.</source>
-        <translation>Krypton će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše kryptone od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
+        <source>kripton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your kriptons from being stolen by malware infecting your computer.</source>
+        <translation>kripton će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše kriptone od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Krypton</source>
-        <translation>Prikaži informacije o Kryptonu</translation>
+        <source>Show information about kripton</source>
+        <translation>Prikaži informacije o kriptonu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Krypton address</source>
-        <translation>Slanje novca na krypton adresu</translation>
+        <source>Send coins to a kripton address</source>
+        <translation>Slanje novca na kripton adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Krypton</source>
-        <translation>Promijeni postavke konfiguracije za krypton</translation>
+        <source>Modify configuration options for kripton</source>
+        <translation>Promijeni postavke konfiguracije za kripton</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Krypton</source>
-        <translation>Krypton</translation>
+        <source>kripton</source>
+        <translation>kripton</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Krypton</source>
-        <translation>&amp;O Kryptonu</translation>
+        <source>&amp;About kripton</source>
+        <translation>&amp;O kriptonu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,12 +495,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Krypton addresses to prove you own them</source>
+        <source>Sign messages with your kripton addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Krypton addresses</source>
+        <source>Verify messages to ensure they were signed with specified kripton addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Krypton client</source>
-        <translation>Krypton klijent</translation>
+        <source>kripton client</source>
+        <translation>kripton klijent</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Krypton network</source>
-        <translation><numerusform>%n aktivna veza na Krypton mrežu</numerusform><numerusform>%n aktivne veze na Krypton mrežu</numerusform><numerusform>%n aktivnih veza na Krypton mrežu</numerusform></translation>
+        <source>%n active connection(s) to kripton network</source>
+        <translation><numerusform>%n aktivna veza na kripton mrežu</numerusform><numerusform>%n aktivne veze na kripton mrežu</numerusform><numerusform>%n aktivnih veza na kripton mrežu</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -651,7 +651,7 @@ Adresa:%4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Krypton address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid kripton address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -666,7 +666,7 @@ Adresa:%4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Krypton can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. kripton can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -732,8 +732,8 @@ Adresa:%4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Krypton address.</source>
-        <translation>Upisana adresa &quot;%1&quot; nije valjana krypton adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid kripton address.</source>
+        <translation>Upisana adresa &quot;%1&quot; nije valjana kripton adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -751,7 +751,7 @@ Adresa:%4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Krypton-Qt</source>
+        <source>kripton-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -814,13 +814,13 @@ Adresa:%4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Krypton after logging in to the system.</source>
-        <translation>Automatski pokreni Krypton kad se uključi računalo</translation>
+        <source>Automatically start kripton after logging in to the system.</source>
+        <translation>Automatski pokreni kripton kad se uključi računalo</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Krypton on system login</source>
-        <translation>&amp;Pokreni Krypton kod pokretanja sustava</translation>
+        <source>&amp;Start kripton on system login</source>
+        <translation>&amp;Pokreni kripton kod pokretanja sustava</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -839,8 +839,8 @@ Adresa:%4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Krypton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Krypton klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the kripton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port kripton klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -849,7 +849,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Krypton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the kripton network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Spojite se na Bitcon mrežu putem SOCKS proxy-a (npr. kod povezivanja kroz Tor)</translation>
     </message>
     <message>
@@ -924,7 +924,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Krypton.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting kripton.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -935,11 +935,11 @@ Adresa:%4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio kryptona koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio kriptona koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Krypton addresses in the transaction list or not.</source>
+        <source>Whether to show kripton addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -991,7 +991,7 @@ Adresa:%4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Krypton.</source>
+        <source>This setting will take effect after restarting kripton.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1010,7 +1010,7 @@ Adresa:%4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Krypton network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the kripton network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1064,7 +1064,7 @@ Adresa:%4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start krypton: click-to-pay handler</source>
+        <source>Cannot start kripton: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1214,7 +1214,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Krypton-Qt help message to get a list with possible Krypton command-line options.</source>
+        <source>Show the kripton-Qt help message to get a list with possible kripton command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1234,12 +1234,12 @@ Adresa:%4
     </message>
     <message>
         <location line="-104"/>
-        <source>Krypton - Debug window</source>
+        <source>kripton - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Krypton Core</source>
+        <source>kripton Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1249,7 +1249,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Krypton debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the kripton debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1259,7 +1259,7 @@ Adresa:%4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Krypton RPC console.</source>
+        <source>Welcome to the kripton RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1443,8 +1443,8 @@ Adresa:%4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Krypton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Unesite kripton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1467,7 +1467,7 @@ Adresa:%4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Krypton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite kripton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1508,7 +1508,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Krypton address</source>
+        <source>Sign the message to prove you own this kripton address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1540,11 +1540,11 @@ Adresa:%4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Krypton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <translation>Unesite kripton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Krypton address</source>
+        <source>Verify the message to ensure it was signed with the specified kripton address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1560,8 +1560,8 @@ Adresa:%4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Krypton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Unesite Krypton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a kripton address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Unesite kripton adresu (npr. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1570,7 +1570,7 @@ Adresa:%4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Krypton signature</source>
+        <source>Enter kripton signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1644,7 +1644,7 @@ Adresa:%4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Krypton developers</source>
+        <source>The kripton developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2182,8 +2182,8 @@ Adresa:%4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Krypton version</source>
-        <translation>Krypton verzija</translation>
+        <source>kripton version</source>
+        <translation>kripton verzija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2192,8 +2192,8 @@ Adresa:%4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or kryptond</source>
-        <translation>Pošalji komandu usluzi -server ili kryptond</translation>
+        <source>Send command to -server or kriptond</source>
+        <translation>Pošalji komandu usluzi -server ili kriptond</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2212,13 +2212,13 @@ Adresa:%4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: krypton.conf)</source>
-        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: krypton.conf)</translation>
+        <source>Specify configuration file (default: kripton.conf)</source>
+        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: kripton.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: kryptond.pid)</source>
-        <translation>Odredi proces ID datoteku (ugrađeni izbor: krypton.pid)</translation>
+        <source>Specify pid file (default: kriptond.pid)</source>
+        <translation>Odredi proces ID datoteku (ugrađeni izbor: kripton.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2295,13 +2295,13 @@ Adresa:%4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=kryptonrpc
+rpcuser=kriptonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;kripton Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2317,7 +2317,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Krypton is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. kripton is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2362,8 +2362,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Krypton will not work properly.</source>
-        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, Krypton neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong kripton will not work properly.</source>
+        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, kripton neće raditi ispravno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2612,8 +2612,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Krypton Wiki for SSL setup instructions)</source>
-        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi Krypton Wiki)</translation>
+        <source>SSL options: (see the kripton Wiki for SSL setup instructions)</source>
+        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi kripton Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2802,13 +2802,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Krypton</source>
-        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju Kryptona</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of kripton</source>
+        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju kriptona</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Krypton to complete</source>
-        <translation>Novčanik je trebao prepravak: ponovo pokrenite Krypton</translation>
+        <source>Wallet needed to be rewritten: restart kripton to complete</source>
+        <translation>Novčanik je trebao prepravak: ponovo pokrenite kripton</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2867,8 +2867,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Krypton Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Krypton is probably already running.</source>
-        <translation>Program ne može koristiti %s na ovom računalu.  Krypton program je vjerojatno već pokrenut.</translation>
+        <source>Unable to bind to %s on this computer. kripton is probably already running.</source>
+        <translation>Program ne može koristiti %s na ovom računalu.  kripton program je vjerojatno već pokrenut.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Krypton"
-            VALUE "FileDescription",    "Krypton-Qt (OSS GUI client for Krypton)"
+            VALUE "CompanyName",        "kripton"
+            VALUE "FileDescription",    "kripton-Qt (OSS GUI client for kripton)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "krypton-qt"
+            VALUE "InternalName",       "kripton-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "krypton-qt.exe"
-            VALUE "ProductName",        "Krypton-Qt"
+            VALUE "OriginalFilename",   "kripton-qt.exe"
+            VALUE "ProductName",        "kripton-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

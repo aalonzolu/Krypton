@@ -6,7 +6,7 @@ Release Process
 ###update (commit) version in sources
 
 
-	krypton-qt.pro
+	kripton-qt.pro
 	contrib/verifysfbinaries/verify.sh
 	doc/README*
 	share/setup.nsi
@@ -24,7 +24,7 @@ Release Process
 
 ##perform gitian builds
 
- From a directory containing the krypton source, gitian-builder and gitian.sigs
+ From a directory containing the kripton source, gitian-builder and gitian.sigs
   
 	export SIGNER=(your gitian key, ie bluematt, sipa, etc)
 	export VERSION=0.8.0
@@ -42,54 +42,54 @@ Release Process
 	wget 'http://downloads.sourceforge.net/project/boost/boost/1.50.0/boost_1_50_0.tar.bz2'
 	wget 'http://releases.qt-project.org/qt4/source/qt-everywhere-opensource-src-4.8.3.tar.gz'
 	cd ..
-	./bin/gbuild ../krypton/contrib/gitian-descriptors/boost-win32.yml
+	./bin/gbuild ../kripton/contrib/gitian-descriptors/boost-win32.yml
 	mv build/out/boost-win32-1.50.0-gitian2.zip inputs/
-	./bin/gbuild ../krypton/contrib/gitian-descriptors/qt-win32.yml
+	./bin/gbuild ../kripton/contrib/gitian-descriptors/qt-win32.yml
 	mv build/out/qt-win32-4.8.3-gitian-r1.zip inputs/
-	./bin/gbuild ../krypton/contrib/gitian-descriptors/deps-win32.yml
-	mv build/out/krypton-deps-0.0.5.zip inputs/
+	./bin/gbuild ../kripton/contrib/gitian-descriptors/deps-win32.yml
+	mv build/out/kripton-deps-0.0.5.zip inputs/
 
- Build kryptond and krypton-qt on Linux32, Linux64, and Win32:
+ Build kriptond and kripton-qt on Linux32, Linux64, and Win32:
   
-	./bin/gbuild --commit krypton=v${VERSION} ../krypton/contrib/gitian-descriptors/gitian.yml
-	./bin/gsign --signer $SIGNER --release ${VERSION} --destination ../gitian.sigs/ ../krypton/contrib/gitian-descriptors/gitian.yml
+	./bin/gbuild --commit kripton=v${VERSION} ../kripton/contrib/gitian-descriptors/gitian.yml
+	./bin/gsign --signer $SIGNER --release ${VERSION} --destination ../gitian.sigs/ ../kripton/contrib/gitian-descriptors/gitian.yml
 	pushd build/out
-	zip -r krypton-${VERSION}-linux-gitian.zip *
-	mv krypton-${VERSION}-linux-gitian.zip ../../
+	zip -r kripton-${VERSION}-linux-gitian.zip *
+	mv kripton-${VERSION}-linux-gitian.zip ../../
 	popd
-	./bin/gbuild --commit krypton=v${VERSION} ../krypton/contrib/gitian-descriptors/gitian-win32.yml
-	./bin/gsign --signer $SIGNER --release ${VERSION}-win32 --destination ../gitian.sigs/ ../krypton/contrib/gitian-descriptors/gitian-win32.yml
+	./bin/gbuild --commit kripton=v${VERSION} ../kripton/contrib/gitian-descriptors/gitian-win32.yml
+	./bin/gsign --signer $SIGNER --release ${VERSION}-win32 --destination ../gitian.sigs/ ../kripton/contrib/gitian-descriptors/gitian-win32.yml
 	pushd build/out
-	zip -r krypton-${VERSION}-win32-gitian.zip *
-	mv krypton-${VERSION}-win32-gitian.zip ../../
+	zip -r kripton-${VERSION}-win32-gitian.zip *
+	mv kripton-${VERSION}-win32-gitian.zip ../../
 	popd
 
   Build output expected:
 
-  1. linux 32-bit and 64-bit binaries + source (krypton-${VERSION}-linux-gitian.zip)
-  2. windows 32-bit binary, installer + source (krypton-${VERSION}-win32-gitian.zip)
+  1. linux 32-bit and 64-bit binaries + source (kripton-${VERSION}-linux-gitian.zip)
+  2. windows 32-bit binary, installer + source (kripton-${VERSION}-win32-gitian.zip)
   3. Gitian signatures (in gitian.sigs/${VERSION}[-win32]/(your gitian key)/
 
 repackage gitian builds for release as stand-alone zip/tar/installer exe
 
 **Linux .tar.gz:**
 
-	unzip krypton-${VERSION}-linux-gitian.zip -d krypton-${VERSION}-linux
-	tar czvf krypton-${VERSION}-linux.tar.gz krypton-${VERSION}-linux
-	rm -rf krypton-${VERSION}-linux
+	unzip kripton-${VERSION}-linux-gitian.zip -d kripton-${VERSION}-linux
+	tar czvf kripton-${VERSION}-linux.tar.gz kripton-${VERSION}-linux
+	rm -rf kripton-${VERSION}-linux
 
 **Windows .zip and setup.exe:**
 
-	unzip krypton-${VERSION}-win32-gitian.zip -d krypton-${VERSION}-win32
-	mv krypton-${VERSION}-win32/krypton-*-setup.exe .
-	zip -r krypton-${VERSION}-win32.zip bitcoin-${VERSION}-win32
-	rm -rf krypton-${VERSION}-win32
+	unzip kripton-${VERSION}-win32-gitian.zip -d kripton-${VERSION}-win32
+	mv kripton-${VERSION}-win32/kripton-*-setup.exe .
+	zip -r kripton-${VERSION}-win32.zip bitcoin-${VERSION}-win32
+	rm -rf kripton-${VERSION}-win32
 
 **Perform Mac build:**
 
   OSX binaries are created by Gavin Andresen on a 32-bit, OSX 10.6 machine.
 
-	qmake RELEASE=1 USE_UPNP=1 USE_QRCODE=1 krypton-qt.pro
+	qmake RELEASE=1 USE_UPNP=1 USE_QRCODE=1 kripton-qt.pro
 	make
 	export QTDIR=/opt/local/share/qt4  # needed to find translations/qt_*.qm files
 	T=$(contrib/qt_translations.py $QTDIR/translations src/qt/locale)
@@ -107,14 +107,14 @@ repackage gitian builds for release as stand-alone zip/tar/installer exe
 
 * create SHA256SUMS for builds, and PGP-sign it
 
-* update krypton.org version
+* update kripton.org version
   make sure all OS download links go to the right versions
 
 * update forum version
 
 * update wiki download links
 
-* update wiki changelog: [https://en.krypton.it/wiki/Changelog](https://en.bitcoin.it/wiki/Changelog)
+* update wiki changelog: [https://en.kripton.it/wiki/Changelog](https://en.bitcoin.it/wiki/Changelog)
 
 Commit your signature to gitian.sigs:
 
@@ -129,32 +129,32 @@ Commit your signature to gitian.sigs:
 
 ### After 3 or more people have gitian-built, repackage gitian-signed zips:
 
-From a directory containing krypton source, gitian.sigs and gitian zips
+From a directory containing kripton source, gitian.sigs and gitian zips
 
 	export VERSION=0.5.1
-	mkdir krypton-${VERSION}-linux-gitian
-	pushd krypton-${VERSION}-linux-gitian
-	unzip ../krypton-${VERSION}-linux-gitian.zip
+	mkdir kripton-${VERSION}-linux-gitian
+	pushd kripton-${VERSION}-linux-gitian
+	unzip ../kripton-${VERSION}-linux-gitian.zip
 	mkdir gitian
-	cp ../krypton/contrib/gitian-downloader/*.pgp ./gitian/
+	cp ../kripton/contrib/gitian-downloader/*.pgp ./gitian/
 	for signer in $(ls ../gitian.sigs/${VERSION}/); do
-	 cp ../gitian.sigs/${VERSION}/${signer}/krypton-build.assert ./gitian/${signer}-build.assert
-	 cp ../gitian.sigs/${VERSION}/${signer}/krypton-build.assert.sig ./gitian/${signer}-build.assert.sig
+	 cp ../gitian.sigs/${VERSION}/${signer}/kripton-build.assert ./gitian/${signer}-build.assert
+	 cp ../gitian.sigs/${VERSION}/${signer}/kripton-build.assert.sig ./gitian/${signer}-build.assert.sig
 	done
-	zip -r krypton-${VERSION}-linux-gitian.zip *
-	cp krypton-${VERSION}-linux-gitian.zip ../
+	zip -r kripton-${VERSION}-linux-gitian.zip *
+	cp kripton-${VERSION}-linux-gitian.zip ../
 	popd
-	mkdir krypton-${VERSION}-win32-gitian
-	pushd krypton-${VERSION}-win32-gitian
-	unzip ../krypton-${VERSION}-win32-gitian.zip
+	mkdir kripton-${VERSION}-win32-gitian
+	pushd kripton-${VERSION}-win32-gitian
+	unzip ../kripton-${VERSION}-win32-gitian.zip
 	mkdir gitian
-	cp ../krypton/contrib/gitian-downloader/*.pgp ./gitian/
+	cp ../kripton/contrib/gitian-downloader/*.pgp ./gitian/
 	for signer in $(ls ../gitian.sigs/${VERSION}-win32/); do
-	 cp ../gitian.sigs/${VERSION}-win32/${signer}/krypton-build.assert ./gitian/${signer}-build.assert
-	 cp ../gitian.sigs/${VERSION}-win32/${signer}/krypton-build.assert.sig ./gitian/${signer}-build.assert.sig
+	 cp ../gitian.sigs/${VERSION}-win32/${signer}/kripton-build.assert ./gitian/${signer}-build.assert
+	 cp ../gitian.sigs/${VERSION}-win32/${signer}/kripton-build.assert.sig ./gitian/${signer}-build.assert.sig
 	done
-	zip -r krypton-${VERSION}-win32-gitian.zip *
-	cp krypton-${VERSION}-win32-gitian.zip ../
+	zip -r kripton-${VERSION}-win32-gitian.zip *
+	cp kripton-${VERSION}-win32-gitian.zip ../
 	popd
 
 - Upload gitian zips to SourceForge

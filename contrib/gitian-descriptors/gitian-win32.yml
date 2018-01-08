@@ -1,5 +1,5 @@
 ---
-name: "krypton"
+name: "kripton"
 suites:
 - "lucid"
 architectures:
@@ -12,12 +12,12 @@ packages:
 - "faketime"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/krypton-project/krypton.git"
-  "dir": "krypton"
+- "url": "https://github.com/kripton-project/kripton.git"
+  "dir": "kripton"
 files:
 - "qt-win32-4.8.3-gitian-r1.zip"
 - "boost-win32-1.50.0-gitian2.zip"
-- "krypton-deps-0.0.5.zip"
+- "kripton-deps-0.0.5.zip"
 script: |
   #
   mkdir $HOME/qt
@@ -39,11 +39,11 @@ script: |
   mv include/boost .
   cd ..
   #
-  unzip krypton-deps-0.0.5.zip
+  unzip kripton-deps-0.0.5.zip
   #
   find -type f | xargs touch --date="$REFERENCE_DATETIME"
   #
-  cd krypton
+  cd kripton
   mkdir -p $OUTDIR/src
   git archive HEAD | tar -x -C $OUTDIR/src
   cp $OUTDIR/src/doc/README_windows.txt $OUTDIR/readme.txt
@@ -51,19 +51,19 @@ script: |
   export LD_PRELOAD=/usr/lib/faketime/libfaketime.so.1
   export FAKETIME=$REFERENCE_DATETIME
   export TZ=UTC
-  $HOME/qt/src/bin/qmake -spec unsupported/win32-g++-cross MINIUPNPC_LIB_PATH=$HOME/build/miniupnpc MINIUPNPC_INCLUDE_PATH=$HOME/build/ BDB_LIB_PATH=$HOME/build/db-4.8.30.NC/build_unix BDB_INCLUDE_PATH=$HOME/build/db-4.8.30.NC/build_unix BOOST_LIB_PATH=$HOME/build/boost_1_50_0/stage/lib BOOST_INCLUDE_PATH=$HOME/build/boost_1_50_0 BOOST_LIB_SUFFIX=-mt-s BOOST_THREAD_LIB_SUFFIX=_win32-mt-s OPENSSL_LIB_PATH=$HOME/build/openssl-1.0.1c OPENSSL_INCLUDE_PATH=$HOME/build/openssl-1.0.1c/include QRENCODE_LIB_PATH=$HOME/build/qrencode-3.2.0/.libs QRENCODE_INCLUDE_PATH=$HOME/build/qrencode-3.2.0 USE_QRCODE=1 INCLUDEPATH=$HOME/build DEFINES=BOOST_THREAD_USE_LIB BITCOIN_NEED_QT_PLUGINS=1 QMAKE_LRELEASE=lrelease QMAKE_CXXFLAGS=-frandom-seed=krypton USE_BUILD_INFO=1
+  $HOME/qt/src/bin/qmake -spec unsupported/win32-g++-cross MINIUPNPC_LIB_PATH=$HOME/build/miniupnpc MINIUPNPC_INCLUDE_PATH=$HOME/build/ BDB_LIB_PATH=$HOME/build/db-4.8.30.NC/build_unix BDB_INCLUDE_PATH=$HOME/build/db-4.8.30.NC/build_unix BOOST_LIB_PATH=$HOME/build/boost_1_50_0/stage/lib BOOST_INCLUDE_PATH=$HOME/build/boost_1_50_0 BOOST_LIB_SUFFIX=-mt-s BOOST_THREAD_LIB_SUFFIX=_win32-mt-s OPENSSL_LIB_PATH=$HOME/build/openssl-1.0.1c OPENSSL_INCLUDE_PATH=$HOME/build/openssl-1.0.1c/include QRENCODE_LIB_PATH=$HOME/build/qrencode-3.2.0/.libs QRENCODE_INCLUDE_PATH=$HOME/build/qrencode-3.2.0 USE_QRCODE=1 INCLUDEPATH=$HOME/build DEFINES=BOOST_THREAD_USE_LIB BITCOIN_NEED_QT_PLUGINS=1 QMAKE_LRELEASE=lrelease QMAKE_CXXFLAGS=-frandom-seed=kripton USE_BUILD_INFO=1
   make $MAKEOPTS
-  i586-mingw32msvc-strip release/krypton-qt.exe
-  cp release/krypton-qt.exe $OUTDIR/
+  i586-mingw32msvc-strip release/kripton-qt.exe
+  cp release/kripton-qt.exe $OUTDIR/
   #
   cd src
   export LD_PRELOAD=/usr/lib/faketime/libfaketime.so.1
   export FAKETIME=$REFERENCE_DATETIME
   export TZ=UTC
-  make -f makefile.linux-mingw $MAKEOPTS DEPSDIR=$HOME/build kryptond.exe USE_UPNP=0 DEBUGFLAGS="-frandom-seed=krypton"
-  i586-mingw32msvc-strip kryptond.exe
+  make -f makefile.linux-mingw $MAKEOPTS DEPSDIR=$HOME/build kriptond.exe USE_UPNP=0 DEBUGFLAGS="-frandom-seed=kripton"
+  i586-mingw32msvc-strip kriptond.exe
   mkdir $OUTDIR/daemon
-  cp kryptond.exe $OUTDIR/daemon
+  cp kriptond.exe $OUTDIR/daemon
   cd ..
   mkdir nsis
   git archive HEAD | tar -x -C nsis
@@ -72,4 +72,4 @@ script: |
   cp ../../release/* ../release/
   cp ../../src/*.exe .
   makensis ../share/setup.nsi
-  cp ../share/krypton-*-win32-setup.exe $OUTDIR/
+  cp ../share/kripton-*-win32-setup.exe $OUTDIR/

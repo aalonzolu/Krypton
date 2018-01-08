@@ -1,4 +1,4 @@
-Krypton 0.8.x BETA
+kripton 0.8.x BETA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
@@ -12,7 +12,7 @@ cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cry
 
 Intro
 ---------------------
-Krypton is a free open source peer-to-peer electronic cash system that is
+kripton is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
@@ -20,17 +20,17 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 ---------------------
-You need the Qt4 run-time libraries to run Krypton-Qt. On Debian or Ubuntu:
+You need the Qt4 run-time libraries to run kripton-Qt. On Debian or Ubuntu:
 	`sudo apt-get install libqtgui4`
 
 Unpack the files into a directory and run:
 
-- bin/32/krypton-qt (GUI, 32-bit)
-- bin/32/kryptond (headless, 32-bit)
-- bin/64/krypton-qt (GUI, 64-bit)
-- bin/64/kryptond (headless, 64-bit)
+- bin/32/kripton-qt (GUI, 32-bit)
+- bin/32/kriptond (headless, 32-bit)
+- bin/64/kripton-qt (GUI, 64-bit)
+- bin/64/kriptond (headless, 64-bit)
 
-See the documentation at the [Krypton Wiki](http://krypton.info)
+See the documentation at the [kripton Wiki](http://kripton.info)
 for help and more information.
 
 
