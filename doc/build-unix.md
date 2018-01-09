@@ -152,3 +152,13 @@ exploit even if a vulnerability is found, you can take the following measures:
 	RW- R-- RW-
 
     The STK RW- means that the stack is readable and writeable but not executable.
+    
+    Ubuntu 16.10 issues
+    ---------
+    1) makefile.unix:173: recipe for target 'obj/db.o' failed
+    `$ cd Krypton/src
+    $ mkdir obj
+    $ make -f makefile.unix`
+    2) db.h:14:20: fatal error: db_cxx.h: No such file or directory
+    `sudo apt-get install libdb++-dev`
+    
